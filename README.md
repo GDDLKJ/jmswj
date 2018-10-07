@@ -1,2 +1,2 @@
-# EPOA
-恩平交流平台OA IPhone客户端
+# JMSWJ
+江门商务局（外经贸局）订餐系统app
